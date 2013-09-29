@@ -32,7 +32,7 @@ Some people pretend that the bullies need this control to prevent drug dealers f
 
 The origin of Roman "law" is a society with nobility, called _patricians_, and commoners, called _plebeians_. The Romans were amongst the first ones in history to solve a pernicuous problem. How do we make sure that the patricians are always right and the plebeians always wrong, without openly admitting this?
 
-The solution is complicated and convoluted, but it works. Even the plebeians accepted Roman "law" in spite of the first law, which forbids legally favouring the one person over the other. The plebeians were excellent Egyptian slaves, until the Roman empire collapsed, of course. A system can only contain thát many errors before the errors take over, overwhelm it, and then sink it.
+The solution is complicated and convoluted, but it works. Even the plebeians accepted Roman "law" in spite of the first law, which forbids legally favouring one person over the other. The Roman plebeians were excellent Egyptian slaves, until the Roman empire collapsed. A system can, of course, only contain thát many errors before the errors take over, overwhelm it, and then sink it.
 
 To an outsider, Roman "law" looked stupid and laughable. You had to be born in it, in order to actually believe and accept it. But then again, Roman "law" does not look more stupid than the contemporary legal inventions that have been judisciously derived from Roman "law" and have replaced it.
 
