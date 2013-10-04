@@ -48,5 +48,5 @@ At the moment, it is mostly the credit card companies that adjudicate on the int
 
 The good thing about the fantastically useful areas in mathematics now powering digital commerce, is that the bullies generally do not understand them. That alone should give us another ten years of peace. The price of freedom is indeed eternal vigilance. Software freedom can be used to increase freedom everywhere. The alternative is that the lack of software freedom will continue to power the surveillance and choice-elimination system that Edward Snowden so much decried.
 
-We need to make work of decentralizing the bitcoin exchange platforms and reinforce their pluggable escrow and adjudication systems. The battle against the imposters must continue. No entity should ever establish universal rule and in that way take the place of the original lawmaker while turning all of us into Egyptian slaves.
+We need to make work of decentralizing the bitcoin exchange platforms and reinforce their pluggable escrow and adjudication mechanisms. The battle against the imposters must continue. No entity should ever establish universal rule and in that way take the place of the original lawmaker while turning all of us into Egyptian slaves.
 
