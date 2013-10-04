@@ -40,7 +40,7 @@ What about democracy?
 
 I reject it. I am absolutely not bound by what other idiots believe. I am only bound by the laws of the original lawmaker and by the agreements that I freely entered. Every other unilaterally-imposed obligation, is an invitation to neutralize it in one way or another. Furthermore, [the right to govern China](http://en.wikipedia.org/wiki/Mandate_of_Heaven) is granted by heaven, and not by the other idiots.
 
-I do not particularly like the use of force. Such use has to be legitimate; and that is seriously hard to do that correctly. The more the use of force reflects the stupidity of the one using it, the more I reject it. Governments, i.e. the politicians and their servants are notoriously stupid. So, yes, I like it when they become victims at their own game.
+I do not particularly like the use of force. Such use has to be legitimate; and it is seriously hard to do that correctly. The more the use of force reflects the stupidity of the one using it, the more I reject it. Governments, i.e. the politicians and their servants are notoriously stupid. So, yes, I do like it when they become victims at their own game.
 
 An attack on bitcoin itself is not particularly feasible for the bullies because the bitcoin system is entirely decentralized. [Satoshi Nakamoto](http://bitcoin.org/bitcoin.pdf) seems to have been in contact with higher powers who inspired him on how to carry out the bitcoin plan. The [zero-knowledge proof](http://en.wikipedia.org/wiki/Zero-knowledge_proof) extension to it, [zerocoin](http://zerocoin.org), also looks like an essential and inspired mechanism.
 
