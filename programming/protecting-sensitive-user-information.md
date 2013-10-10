@@ -22,7 +22,7 @@ The front end server should not have a list or overview of what sensitive data i
 
 A user address can be an email address or a [bitmessage address](https://bitmessage.org/wiki/Main_Page) depending on the preferences of the user. Bitmessage addresses are preferred, but not all users are already familiar with them.
 
-The hidden server should not answer on any other ports than on the designated one. The front end server may not store identifiable usernames, user addresses, or userids in any of its tables or files. It should also not be possible to guess a userid. Therefore, a userid should be a cryptographical address, similar to a bitcoin or bitmessage address. Example:
+The hidden server should not answer queries on any other ports than on the designated one. The front end server may not store identifiable usernames, user addresses, or userids in any of its tables or files. It should also not be possible to guess a userid. Therefore, a userid should be a cryptographical address, similar to a bitcoin or bitmessage address. Example:
 
 	$ bitcoind getnewaddress test
 	1M6EuRKbKq2fsip4WTCYxe4qbqtpKub8fU
