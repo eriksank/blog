@@ -1,6 +1,6 @@
 #Protecting sensitive user information
 
-There is nothing as embarrassing as having user information stolen, revealed, and abused. The user will rightly blame the service provider for not having protected his private data sufficiently. Existing practices to protect sensitive data have become insufficient. I think that we should stat making use of the fact that it is very hard or impossible to locate hidden tor servers and therefore to attack them, in order to protect sensitive user information.
+There is nothing as embarrassing as having user information stolen, revealed, and abused. The user will rightly blame the service provider for not having protected his private data sufficiently. Existing practices to protect sensitive data have become insufficient. I think that we should start making use of the fact that it is very hard or impossible to locate hidden tor servers and therefore to attack them, in order to protect sensitive user information.
 
 Obviously, the first line of defense is to avoid collecting any more personal data from the user than strictly necessary. Every piece of information must be assessed against a real and unavoidable need to know. Otherwise, the system should reasonably try to prevent the user from supplying such information in the first place.
 
