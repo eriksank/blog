@@ -72,5 +72,5 @@ Unless the admin re-activates the hidden tor service on a periodic basis, say, e
 
 ##Automatically notifying users that the front-end server has been compromised
 
-A compromised front-end server may be used by the attacker for surveillance and for recording user data and transactions. The longer the surveillance lasts, the more damage the attacker can inflict. If possible at all, the front-end server itself should also be a hidden tor server. However, not all users are willing to install the tor client required to access the tor network. Furthermore, protecting users and their financial information by using the tor network is unfortunately not yet common practice, while such additional levels of security may seriously inconvenience the user. 
+A compromised front-end server may be used by the attacker for surveillance and for recording user data and transactions. The longer the surveillance lasts, the more damage the attacker can inflict. If possible at all, the front-end server itself should also be a hidden tor server. However, not all users are willing to install the tor client required to access the tor network. Furthermore, protecting users and their financial information by using the tor network is unfortunately not yet common practice. Such additional levels of security may also inconvenience the user. 
 
