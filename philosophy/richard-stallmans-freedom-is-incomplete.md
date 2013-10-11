@@ -14,7 +14,7 @@ The Christian clergy tends to de-emphasize the importance of the first law and t
 
 _Why do you seem to object to the law of the land only now? Pay by yourself this time, the price for preaching heresies._
 
-This point of view may sound cynical, but sometimes that is what it takes. You can only have one master. It is not me. It is not them. It is Him, the original lawmaker. And yes, _He_ may not even exist. Does that really bother you? Do you really prefer a master that does exist? Do you really want to recognize the imposters as lawmakers?
+This point of view may sound cynical, but sometimes that is what it takes to make the point. You can only have one master. It is not me. It is not them. It is Him, the original lawmaker. And yes, _He_ may not even exist. Does that really bother you? Do you really prefer a master that does exist? Do you really want to recognize the imposters as lawmakers?
 
 I see the GNU copy-left approach as a fantastic game to defeat copy-right. You see, fundamentally, I do not particularly recognize any copy-right "law", since the origin of copy-right "law" is definitely not the original lawmaker. So, no, it is not a law. However, instead of openly defying this political invention, I prefer to engage in some kind of copy-left game. We can indeed defeat that kind of non-laws by exploiting their glaring contradictions. Defeating the imposters at their own game is an _auto-da-fé_: an act of faith. You see, the general rule is that no other entity can make rules that are truly universal, other than the one who originally created the universe in the first place.
 
