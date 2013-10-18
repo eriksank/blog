@@ -101,7 +101,7 @@ The solution to the problem of rampant crime always begins with punishing the wo
 
 There is no need for any original solution to solve this particular problem. The solution exists already. Since it is obviously clear that the vermin stands to lose big time if honesty and hard work starts paying off in their country, they will do anything to put a stop to that. 
 
-Obviously, the solution consists in using [Jim Bell](http://en.wikipedia.org/wiki/Jim_Bell) methods to address the issue. Furthmore, it is absolutely necessary to subject thoroughly to an _Act of Faith_ any individual caught publicly uttering blasphemous heresies against the solution brought to the problem.
+Obviously, the solution consists in using [Jim Bell](http://en.wikipedia.org/wiki/Jim_Bell) methods to address the issue. Furthmore, it is absolutely necessary to subject thoroughly to _Acts of Faith_ any individual caught publicly uttering blasphemous heresies against the solution brought to the problem.
 
 No problem of crime can ever get solved, before first solving crimes against the First Law.
 
