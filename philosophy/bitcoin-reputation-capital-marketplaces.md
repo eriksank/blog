@@ -95,7 +95,7 @@ Breaking the first law by uttering such blasphemous heresies is a heinous crime 
 
 Furthermore, all respect is based on the fear for reprisals. So is respect for the laws of the original lawmaker. You see, if someone does not like a particular religious scripture, he is obviously not bound by its laws. He is entirely free to criticize every aspect of it. If someone claims allegiance to a religious scripture, however, but at the same time pronounces blasphemous heresies against it, in that case, he opens himself to reprisals under the same laws to which he claims allegiance.
 
-The solution for the problem of rampant crime always begins with punishing the worst crimes first. Therefore, depending on the scripture that you prefer, the appropriate, canonical, respect-instilling reprisals for horrible blasphemous heresies against the First Law is an _Act of Faith_, either through [lapidation](http://en.wikipedia.org/wiki/Stoning) or else with an [auto-da-fé](http://en.wikipedia.org/wiki/Auto-da-f%C3%A9).
+The solution to the problem of rampant crime always begins with punishing the worst crimes first. Therefore, depending on the scripture that you prefer, the appropriate, canonical, respect-instilling reprisals for horrible blasphemous heresies against the First Law is an _Act of Faith_, either through [lapidation](http://en.wikipedia.org/wiki/Stoning) or else with an [auto-da-fé](http://en.wikipedia.org/wiki/Auto-da-f%C3%A9).
 
 ##What if corrupt politicians or their servants do not like the reputation marketplace?
 
