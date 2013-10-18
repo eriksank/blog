@@ -89,7 +89,7 @@ In countries like Nigeria or the Congo that means obeying to fraudsters, liars, 
 	And thus spoke the Almighty, the lawmaking god who freed us out of slavery in Egypt:
 	One. First Law. You shall recognize no other lawmaker but me.
 
-Uttering the blasphemous heresy _You must obey the law of the land._ is not just a violation of the First Law. It is obviously also the main source of power for corrupt politicians and their greedy servants. It is not Hitler's concentration camp guards who were guilty of the Holocaust. It is the ones who made the preparations for this to happen, who are guilty, by uttering blasphemous heresies, and in that way incite the population to recognize other lawmakers than the original one. 
+Uttering the blasphemous heresy _You must obey the law of the land_ is not just a violation of the First Law. It is obviously also the main source of power for corrupt politicians and their greedy servants. It is not Hitler's concentration camp guards who were guilty of the Holocaust. It is the ones who made the preparations for this to happen, who are guilty, by uttering blasphemous heresies, and in that way incite the population to recognize other lawmakers than the original one. 
 
 Breaking the first law by uttering such blasphemous heresies is a heinous crime against the original lawmaker. It is absolutely forbidden to call other people to obedience to anything else than to one of the existing religious scriptures, that is, the Christian Bible, the Islamic Koran, The Buddhist Tripikata, or similar. Furthermore, such obedience is only valid if it is voluntary. Otherwise, it is void.
 
