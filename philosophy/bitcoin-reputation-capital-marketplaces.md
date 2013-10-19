@@ -36,7 +36,7 @@ Reputation-enabled marketplaces automatically show the highest non-expired bid f
 
 The higher the price for a reputation coin on the reputation marketplace, the more the holder of the coin will avoid getting bad marks that could tarnish his reputation.
 
-For example, would the holder of a reputation coin for which he has an irrevocable bid of 1 million dollars run off with the five thousand dollars that you entrusted him with on the market?
+For example, would the holder of a reputation coin for which he has an irrevocable bid of 1 million dollars will run off with the five thousand dollars that you entrusted him with on the market?
 
 The effect on his reputation coin would be devastating. He may even reduce the value of his reputation coin to zero dollars by doing that and therefore incur a loss of 1 million dollars by running off with just 5 000 dollars. Someone holding a reputation coin worth a lot of money will avoid at all cost inflicting damage to his counterparties in the marketplace.
 
