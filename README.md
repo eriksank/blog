@@ -19,7 +19,7 @@ Lacking another term, I have baptized the following collection of math theorems,
 6. Rice theorem
 
 It is a framework of provable impossibilities that bedevil the world of mathematics and even the wider world of knowledge.
-The consequences of the combination of these theorems actively seek to sabotage us on a daily basis.
+The consequences of the combination of these theorems actively seek to sabotage us.
 
 ## 3. Bitcoin security
 
