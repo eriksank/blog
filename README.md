@@ -12,12 +12,14 @@ However, there is one ray of hope, because there is one important set of widespr
 
 Lacking another term, I have baptized a collection of math theorems: the conundrum.
 It is a framework of provable impossibilities that bedevil the world of mathematics and even the wider world of knowledge.
-* Carnap's diagonal lemma
-* Gödel's first incompleteness theorem
-* Gödel's second incompleteness theorem
-* Tarski's undefinability of the truth
-* Turing's halting problem
-* Rice theorem
+
+1. Carnap's diagonal lemma
+2. Gödel's first incompleteness theorem
+3. Gödel's second incompleteness theorem
+4. Tarski's undefinability of the truth
+5. Turing's halting problem
+6. Rice theorem
+
 The consequences of the combination of these theorems actively seek to sabotage us on a daily basis.
 
 # 3. Bitcoin security
