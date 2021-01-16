@@ -1,5 +1,4 @@
-# My Blog
--
+# Erik's Blog
 
 I am trying to focus on the following four subjects:
 
