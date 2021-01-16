@@ -9,8 +9,7 @@ However, there is one ray of hope, because there is one important set of widespr
 
 ## 2. The mathematics conundrum
 
-Lacking another term, I have baptized a collection of math theorems: the conundrum.
-It is a framework of provable impossibilities that bedevil the world of mathematics and even the wider world of knowledge.
+Lacking another term, I have baptized the following collection of math theorems, the conundrum:
 
 1. Carnap's diagonal lemma
 2. Gödel's first incompleteness theorem
@@ -19,6 +18,7 @@ It is a framework of provable impossibilities that bedevil the world of mathemat
 5. Turing's halting problem
 6. Rice theorem
 
+It is a framework of provable impossibilities that bedevil the world of mathematics and even the wider world of knowledge.
 The consequences of the combination of these theorems actively seek to sabotage us on a daily basis.
 
 ## 3. Bitcoin security
