@@ -5,7 +5,7 @@ I write about the following topics:
 ## 1. Epistemic delusions
 
 The mainstream population is heavily afflicted with epistemic delusions. They are borderline epistemically insane.
-However, there is one ray of hope, because there is one important set of widespread knowledge beliefs that seems to be surprisingly correct.
+However, there is one ray of hope, because there is one important set of widespread knowledge beliefs that the mainstream population seems to understand surprisingly correctly.
 
 ## 2. The mathematics conundrum
 
