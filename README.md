@@ -1,6 +1,6 @@
 # Erik's Blog
 
-I am trying to focus on the following four subjects:
+I write about the following topics:
 
 ## 1. Epistemic delusions
 
