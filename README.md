@@ -2,7 +2,7 @@
 
 I write about the following topics:
 
-## 1. Epistemic delusions
+## 1. Mainstream epistemic delusions
 
 The mainstream population is heavily afflicted with epistemic delusions. They are borderline epistemically insane.
 However, there is one ray of hope, because there is one important set of widespread knowledge beliefs that the mainstream population seems to understand surprisingly correctly.
