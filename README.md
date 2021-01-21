@@ -9,7 +9,7 @@ However, there is one ray of hope, because there is one important set of widespr
 
 ## 2. The mathematics conundrum
 
-Lacking a better term, I have baptized the following collection of math theorems "the conundrum":
+Lacking a better term, I have baptized the following collection of math theorems "the mathematics conundrum":
 
 1. Carnap's diagonal lemma
 2. Gödel's first incompleteness theorem
@@ -29,10 +29,18 @@ They are delusional.
 By the way, that is going to cost quite a few users quite a bit of money.
 In this blog section I intend to savagely debunk some of the most infuriating myths that people believe about bitcoin security.
 
-## 4. Religious Jurisprudence is the admiralship of Islam
+## 4. Software engineering
+
+In my utmost humble opinion, there is so much wrong about what mainstream programmers believe, that I cannot shut my mouth about it.
+
+## 5. Religious Jurisprudence is the admiralship of Islam
 
 As a recent convert/revert, I initially thought that Islam is not particularly different from other religions,
 until I realized that other religions may not capable of generating a similarly large body of objective and almost mechanically-verifiable jurisprudence ("al-fiqh").
 That cannot just be the consequence of having a sound epistemology ("usul") because on the wrong scriptures it would not work.
 Therefore, it must be feature of the scriptures themselves that effectively allow for a sound epistemology in its jurisprudence as an emergent property.
+
+## 6. Islam and MGTOW/RedPill
+
+In my opinion, 99% of what MGTOW/RedPill say, is what Islam has been saying for 1400 years already.
 
