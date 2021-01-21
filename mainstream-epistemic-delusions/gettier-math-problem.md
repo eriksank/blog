@@ -8,7 +8,7 @@ Knowledge is defined as a justified true belief (JTB):
 * You believe that it is true
 * You can justify that it is true
 
-In that case, this belief is knowledge.
+In that case, this belief satisfies the definition of knowledge.
 
 https://en.wikipedia.org/wiki/Belief#Justified_true_belief
 
@@ -32,24 +32,35 @@ Suppose that Smith and Jones have applied for a certain job. And suppose that Sm
 
 Smith, it is claimed by the hidden interlocutor, has a justified belief that "Jones owns a Ford". Smith therefore (justifiably) concludes (by the rule of disjunction introduction) that "Jones owns a Ford, or Brown is in Barcelona", even though Smith has no information whatsoever about the location of Brown. In fact, Jones does not own a Ford, but by sheer coincidence, Brown really is in Barcelona. Again, Smith had a belief that was true and justified, but not knowledge.
 
+## 4. Tuples
+
+Set-theoretically 
+() equiv {}
+(a) equiv { {()},{(),1}} = { {{}},{{},1}}
+
+(a,b) equiv. { { (a) }, { (a), b }} = 
+
+(a1,a2,...,an) = (a1,a2,...,an-1) -> an
+        = { { (a1,a2,...,an-1) }, { (a1,a2,...,an-1), an } }
+
+## Named tuples
+
+() equiv {}
+(f1:a) equiv {f1,a)
+(f1:a1,f2,a2, ...) equiv (f1,a1,f2,a2, ...)
+
+
 ## 4. Knowledge database formalization
 
-(ownsFord or BrownBarcelona,ownsFord)
-(ownsFord or BrownBarcelona,BrownBarcelona)
+T={ (claim: ⎡xJob and x10coins⎤,justification: ⎡SmithJob and Smith10coins⎤)
+(claim: ⎡ownsFord or BrownBarcelona⎤,justification: ⎡BrownBarcelona⎤) }
 
-(xJob and x10coins,JonesJob and Jones10coins)
-(xJob and x10coins,SmithJob and Smith10coins)
+S=
+{ (claim: ⎡xJob and x10coins⎤,justification: ⎡JonesJob and Jones10coins⎤) 
+(claim: ⎡ownsFord or BrownBarcelona⎤,justification: ⎡ownsFord⎤)}
 
-        knowledgeClaim(justification,belief)
-DBTruth
-    {
-        ("BrownBarcelona", "ownsFord or BrownBarcelona")
-    }
 
-DBSmith
-    {
-        ("ownsFord", "ownsFord or BrownBarcelona")
-    }
+This is exactly the Gödelian set to support isProvable(s)
 
 ## 5. Implementation of evaluation algorithm
 
@@ -64,8 +75,6 @@ aDB.justifiedTrueBelief(aBelief) {
     return false;
 }
 
-## 6. Evaluation results
-
 KnowledgeDBTruth.justifiedTrueBelief("ownsFord or BrownBarcelona")
 -> true
 
@@ -76,11 +85,10 @@ KnowledgeDBSmith.justifiedTrueBelief("ownsFord or BrownBarcelona")
 ## 8. What is the source of the Gettier confusion?
 
 
-justifiedTrueBelief(KnowledgeDBTruth, "ownsFord or BrownBarcelona")
+isProvable(KnowledgeDBTruth, "ownsFord or BrownBarcelona")
 
-justifiedTrueBelief("ownsFord or BrownBarcelona")
+isProvable("ownsFord or BrownBarcelona")
 
-Missing parameter. It is a two-variable predicate instead of a one-variable one.
 
 
 ## 9. Implementation of the incorrect algorithm
@@ -97,7 +105,7 @@ Impossible to debug the informal specification in natural language. Write a prog
 
 normal case
 
-                dbTruth     dbSmith
+                T           S
 
 belief          true        true
 
@@ -106,7 +114,7 @@ justification   true        true
 
 Gettier case
 
-                dbTruth     dbSmith
+                T           S
 
 belief          true        true
 
@@ -118,10 +126,29 @@ Faulty implication function + faulty justification can cancel each other
 
 There are undoubtedly other corner cases possible
 
-## 12. Connection between Gettier and Gödel's incompleteness
+## 9. What does Gödel's incompleteness look like?
+
+Two worlds/universes M1, M2
+
+M1={⎡xJob and x10coins⎤,⎡SmithJob and Smith10coins⎤,⎡ownsFord or BrownBarcelona⎤,⎡BrownBarcelona⎤}
+M2={⎡xJob and x10coins⎤,⎡SmithJob and Smith10coins⎤,⎡ownsFord or BrownBarcelona⎤,⎡BrownBarcelona⎤,⎡BrownSick⎤}
+
+Both satisfy theory T:
 
 
-Discrepancy between two or more theories/models ==> two or more distributed databases that are not in sync (inconsistent)
+T={ (claim: ⎡xJob and x10coins⎤,justification: ⎡SmithJob and Smith10coins⎤)
+(claim: ⎡ownsFord or BrownBarcelona⎤,justification: ⎡BrownBarcelona⎤) }
 
-Two bugs with a slightly different structure.
+Because everything that is provable in T is true in M1 and M2
+
+However, ⎡BrownSick⎤ is true in M2 but not in M1. Therefore, cannot be provable from T. Therefore, ⎡BrownSick⎤ is a Gödelian sentence, i.e. true but not provable.
+
+
+## 10. Difference between Gettier and Gödel
+
+                       theories         models
+Gettier                   2               1
+Gödel                     1               2+
+
+
 
