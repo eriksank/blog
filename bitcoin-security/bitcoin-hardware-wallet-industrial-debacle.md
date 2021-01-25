@@ -19,7 +19,9 @@ It almost never will. On the contrary, it is more likely to degenerate into a fu
 The wallet application, and the operating system on which it runs, must be reproducible-build, turtles all the way down. The hardware wallet's firmware must also be reproducable-build, for exactly the same reasons.
 
 
-## 2. A hardware wallet generally does not increase security of funds
+## 2. A hardware wallet is an strong attack magnet
+
+Billions of dollars are at stake. Attackers will try to abscond with funds stored in hardware wallets by subverting its firmware with malware.
 
 In theory the Trezor hardware wallet comes preinstalled with reproducable-build firmware.
 
