@@ -34,21 +34,22 @@ Since the user will almost surely not take the effort to do that, there is no gu
 Given this reality, hardware wallets are a wholly unsuitable approach to the Bitcoin storage security problem except for the technically most savvy and sophisticated users. For ordinary users, hardware wallets must be considered to be a dangerous ambush.
 
 
-## 3. Alternative to hardware wallet
+## 3. Alternative to hardware wallets
 
-Wallet software must at all time satisfy the requirement of **reproducible-build** verifiability. The only software solution that currently satisfies the requirements of the reproducible-build standard are **Electrum** or **Bitcoin Core Qt** on **Debian**, **Linux Mint Debian Edition (LMDE)**, **Tails**, **Arch**, or **Alpine**.
+The only software solution that currently satisfies the requirements of the reproducible-build standard are **Electrum** or **Bitcoin Core Qt** on **Debian**, **Linux Mint Debian Edition (LMDE)**, **Tails**, **Arch**, or **Alpine**.
 
 >[https://packages.debian.org/sid/utils/electrum](https://packages.debian.org/sid/utils/electrum)  
-Package: electrum (4.0.2-2)  
-Easy to use Bitcoin client
-This   package provides a lightweight Bitcoin client which protects you from   losing your bitcoins in a backup mistake or computer failure. Also,   Electrum does not require waiting time because it does not download the   Bitcoin blockchain.
+>Package: electrum (4.0.2-2)  
+>Easy to use Bitcoin client
+>This   package provides a lightweight Bitcoin client which protects you from   losing your bitcoins in a backup mistake or computer failure. Also,   Electrum does not require waiting time because it does not download the   Bitcoin blockchain.
 
 Installation instructions for Debian-based distros:
 
+```
 $ sudo apt-get install electrum
+```
 
-
-## 4. The use of a hardware wallet could literally be a death sentence for its users
+## 4. The use of a hardware wallet could literally constitute a death warrant for its users
 
 [Crypto Wallet Provider Ledger Hacked: Customer Database Said to be Compromised](https://www.crowdfundinsider.com/2020/12/170498-crypto-wallet-provider-ledger-hacked-customer-database-said-to-be-compromised)
 
