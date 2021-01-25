@@ -36,12 +36,12 @@ Given this reality, hardware wallets are a wholly unsuitable approach to the Bit
 
 ## 3. Alternative to hardware wallets
 
-The only software solution that currently satisfies the requirements of the reproducible-build standard are:
+The only software solution that currently satisfies the requirements of the reproducible-build standard are either:
 
 1. Electrum
 2. Bitcoin Core Qt
 
-Running on:
+Running on either:
 
 1. Debian
 2. Linux Mint Debian Edition (LMDE)
