@@ -85,7 +85,7 @@ If you no longer live at the address leaked, the attackers may not bother to fig
 
 ## 6. The KYC (Know Your Customer) regulations are a time bomb for users' personal security
 
-The same problem occurs for customers of bitcoin exchange platforms such as Coinbase. What if that database gotleaked? In fact, what if the IRS' Bitcoin capital-gains tax database got leaked? Depending on how well their infrastructure happens to be secure or not, we may end up prematurely saying farewell to more than one person.
+The same problem occurs for customers of bitcoin exchange platforms such as Coinbase. What if that database got leaked? In fact, what if the IRS' Bitcoin capital-gains tax database got leaked? Depending on how well their infrastructure happens to be secured, or not really, we may end up prematurely saying farewell to more than one person.
 
 
 ## 7. How to avoid a KYC-related $5 wrench attack?
