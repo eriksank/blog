@@ -23,7 +23,7 @@ The wallet application, and the operating system on which it runs, must be repro
 
 Billions of dollars are at stake. Attackers will try to abscond with funds stored in hardware wallets by subverting its firmware with malware.
 
-In theory the Trezor hardware wallet comes preinstalled with reproducable-build firmware. Other hardware wallets do not even satisfy the requirements of the reproducible-build software engineering standard.
+In theory, the Trezor hardware wallet comes preinstalled with reproducable-build firmware. Other hardware wallets do not even satisfy the requirements of the reproducible-build software engineering standard.
 
 The user would have to verify upon arrival of the shipment of his hardware wallet that the firmware was not tampered with during production or shipping, by running the commands mentioned in the following page:
 
