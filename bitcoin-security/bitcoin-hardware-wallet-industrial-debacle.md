@@ -96,3 +96,9 @@ https://kycnot.me
 
 So, good luck to everyone who may need it, now or in the future!
 
+## 8. Referral
+
+If you are interested in reading up on a particular uncanny connection between mathematics and psychology, visit my reddit article:
+
+[Uncanny similarity between Gödel's second incompleteness and Dunning-Kruger](https://www.reddit.com/r/mathematics/comments/l1bhx1/uncanny_similarity_between_g%C3%B6dels_second)
+
