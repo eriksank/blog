@@ -67,7 +67,7 @@ $ sudo apt-get install electrum
 
 >December  21, 2020. Ledger stated yesterday that they have been alerted to the  dump of a customer database on Raidforum. Ledger reports more than 1.5  million wallets have been sold since 2014.
 
-This  could clearly result in a good number of impromptu house visits, torture  fests, and resulting dead bodies, i.e. the notorious wrench attack. There are people who kill other people for substantially less money than that. They may liberally torture your wife and children before your eyes until you reveal the hardware wallet's password.
+This  could clearly result in a good number of impromptu house visits, torture  fests, and resulting dead bodies, i.e. the notorious [$5 wrench attack](https://cryptosec.info/wrench-attack). There are people who kill other people for substantially less money than that. They may even liberally torture your wife and children before your eyes until you reveal the hardware wallet's password.
 
 
 ## 5. Mitigation strategy for Ledger victims
@@ -85,12 +85,12 @@ If you no longer live at the address leaked, the attackers may not bother to fig
 
 ## 6. The KYC (Know Your Customer) regulations are a time bomb for users' personal security
 
-The same problem occurs for customers of bitcoin exchange platforms such as Coinbase. What if that database got leaked? In fact, what if the IRS' Bitcoin capital-gains tax database got leaked? Depending on how well their infrastructure happens to have been secured, we may end up prematurely saying farewell to more than one person.
+The same problem occurs for customers of bitcoin exchange platforms such as Coinbase. What if that database gotleaked? In fact, what if the IRS' Bitcoin capital-gains tax database got leaked? Depending on how well their infrastructure happens to be secure or not, we may end up prematurely saying farewell to more than one person.
 
 
-## 7. How to avoid a KYC-related wrench attack?
+## 7. How to avoid a KYC-related $5 wrench attack?
 
-You can avoid this wrench-attack problem by avoiding KYC. In the following link, you can find a list of peer-to-peer exchanges that do not collect personally identifying data:
+You can avoid the $5 wrench-attack problem by avoiding KYC. In the following link, you can find a list of peer-to-peer exchanges that do not collect personally identifying data:
 
 https://kycnot.me
 
