@@ -4,7 +4,7 @@ This blog post is about the catastrophic outcome of a particular widespread main
 
     The belief that the use of a Bitcoin hardware wallet increases the security of your coins.
 
-It almost never will. On the contrary, it is more likely to degenerate into a fully-fledged security nightmare.
+It almost never will. On the contrary, your situation is more likely going to degenerate into a fully-fledged security nightmare.
 
 ## 1. The reproducible-build software engineering standard is not optional
 
