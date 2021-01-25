@@ -2,7 +2,7 @@
 
 This blog post is about the catastrophic outcome of a particular widespread mainstream delusional belief: 
 
-The false idea that the use of a Bitcoin hardware wallet will increase your security.
+    The false idea that the use of a Bitcoin hardware wallet increases the security of your coins.
 
 It almost never will. On the contrary, it is more likely to degenerate into a fully-fledged security nightmare.
 
