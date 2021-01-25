@@ -49,16 +49,17 @@ Running on either:
 4. Linux Arch
 5. Linux Alpine
 
+Example installation instructions for Debian-based distros:
+
+```
+$ sudo apt-get install electrum
+```
+
 >[https://packages.debian.org/sid/utils/electrum](https://packages.debian.org/sid/utils/electrum)  
 >Package: electrum (4.0.2-2)  
 >Easy to use Bitcoin client
 >This   package provides a lightweight Bitcoin client which protects you from   losing your bitcoins in a backup mistake or computer failure. Also,   Electrum does not require waiting time because it does not download the   Bitcoin blockchain.
 
-Installation instructions for Debian-based distros:
-
-```
-$ sudo apt-get install electrum
-```
 
 ## 4. The use of a hardware wallet could literally constitute a death warrant for its users
 
