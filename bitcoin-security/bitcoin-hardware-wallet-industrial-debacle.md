@@ -36,7 +36,18 @@ Given this reality, hardware wallets are a wholly unsuitable approach to the Bit
 
 ## 3. Alternative to hardware wallets
 
-The only software solution that currently satisfies the requirements of the reproducible-build standard are **Electrum** or **Bitcoin Core Qt** on **Debian**, **Linux Mint Debian Edition (LMDE)**, **Tails**, **Arch**, or **Alpine**.
+The only software solution that currently satisfies the requirements of the reproducible-build standard are:
+
+1. Electrum
+2. Bitcoin Core Qt
+
+Running on:
+
+1. Debian
+2. Linux Mint Debian Edition (LMDE)
+3. Tails
+4. Linux Arch
+5. Linux Alpine
 
 >[https://packages.debian.org/sid/utils/electrum](https://packages.debian.org/sid/utils/electrum)  
 >Package: electrum (4.0.2-2)  
