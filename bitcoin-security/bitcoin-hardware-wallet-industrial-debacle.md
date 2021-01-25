@@ -1,8 +1,8 @@
-#The Bitcoin hardware wallet industrial debacle
+# The Bitcoin hardware wallet industrial debacle
 
 This blog post is about the catastrophic outcome of a particular widespread delusion: the idea that the use of a Bitcoin hardware wallet will increase your security. It almost never will. On the contrary, it is more likely to degenerate into a security nightmare.
 
-##1. The reproducible-build software engineering standard is not optional
+## 1. The reproducible-build software engineering standard is not optional
 
 >[reproducible-builds.org](https://reproducible-builds.org/)  
 >
@@ -15,7 +15,7 @@ This blog post is about the catastrophic outcome of a particular widespread delu
 The wallet application, and the operating system on which it runs, must be reproducible-build, turtles all the way down.
 
 
-##2. A hardware wallet generally does not increase security of funds
+## 2. A hardware wallet generally does not increase security of funds
 
 In theory the Trezor hardware wallet comes preinstalled with reproducable-build firmware.
 
@@ -32,7 +32,7 @@ Since the user will almost surely not take the effort to do that, there is no gu
 Given this reality, hardware wallets are a wholly unsuitable approach to the Bitcoin storage security problem except for the technically most savvy and sophisticated users. For ordinary users, hardware wallets must be considered to be a dangerous ambush.
 
 
-##3. Alternative to hardware wallet
+## 3. Alternative to hardware wallet
 
 Wallet software must at all time satisfy the requirement of **reproducible-build** verifiability. The only software solution that currently satisfies the requirements of the reproducible-build standard are **Electrum** or **Bitcoin Core Qt** on **Debian**, **Linux Mint Debian Edition (LMDE)**, **Tails**, **Arch**, or **Alpine**.
 
@@ -46,7 +46,7 @@ Installation instructions for Debian-based distros:
 $ sudo apt-get install electrum
 
 
-##4. The use of a hardware wallet could literally be a death sentence for its users
+## 4. The use of a hardware wallet could literally be a death sentence for its users
 
 [Crypto Wallet Provider Ledger Hacked: Customer Database Said to be Compromised](https://www.crowdfundinsider.com/2020/12/170498-crypto-wallet-provider-ledger-hacked-customer-database-said-to-be-compromised)
 
@@ -55,7 +55,7 @@ $ sudo apt-get install electrum
 This  could clearly result in a good number of impromptu house visits, torture  fests, and resulting dead bodies, i.e. the notorious wrench attack. There are people who kill other people for substantially less money than that. They may liberally torture your wife and children before your eyes until you reveal the hardware wallet's password.
 
 
-##5. Mitigation strategy for Ledger victims
+## 5. Mitigation strategy for Ledger victims
 
 What can you do, if you happen to be one of the 1.5 million people at risk?
 
@@ -68,12 +68,12 @@ Secondly, it could be a solution to move.
 If you no longer live at the address leaked, the attackers may not bother to figure out where you have moved. In the new location, you may want to rent or buy under a different name than the one that was leaked.
 
 
-##6. The KYC (Know Your Customer) regulations are a time bomb for users' personal security
+## 6. The KYC (Know Your Customer) regulations are a time bomb for users' personal security
 
 The same problem occurs for customers of bitcoin exchange platforms such as Coinbase. What if that database got leaked? In fact, what if the IRS' Bitcoin capital-gains tax database got leaked? Depending on how well their infrastructure happens to have been secured, we may end up prematurely saying farewell to more than one person.
 
 
-##7. How to avoid a KYC-related wrench attack?
+## 7. How to avoid a KYC-related wrench attack?
 
 You can avoid this wrench-attack problem by avoiding KYC. In the following link, you can find a list of peer-to-peer exchanges that do not collect personally identifying data:
 
