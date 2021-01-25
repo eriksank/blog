@@ -60,7 +60,7 @@ This  could clearly result in a good number of impromptu house visits, torture  
 
 ## 5. Mitigation strategy for Ledger victims
 
-What can you do, if you happen to be one of the 1.5 million people at risk?
+What can you do, if you happen to be one of the 1.5 million people at risk in the Ledger debacle?
 
 First of all, the attacker will try to figure out which targets are worth visiting.
 
