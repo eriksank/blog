@@ -1,6 +1,10 @@
 # The Bitcoin hardware wallet industrial debacle
 
-This blog post is about the catastrophic outcome of a particular widespread delusion: the idea that the use of a Bitcoin hardware wallet will increase your security. It almost never will. On the contrary, it is more likely to degenerate into a security nightmare.
+This blog post is about the catastrophic outcome of a particular widespread mainstream delusional belief: 
+
+The false idea that the use of a Bitcoin hardware wallet will increase your security.
+
+It almost never will. On the contrary, it is more likely to degenerate into a fully-fledged security nightmare.
 
 ## 1. The reproducible-build software engineering standard is not optional
 
@@ -12,7 +16,7 @@ This blog post is about the catastrophic outcome of a particular widespread delu
 >  
 >This   incentivises attacks on developers who release software, not only via traditional exploitation, but also in the forms of political influence,   blackmail or even threats of violence.
 
-The wallet application, and the operating system on which it runs, must be reproducible-build, turtles all the way down.
+The wallet application, and the operating system on which it runs, must be reproducible-build, turtles all the way down. The hardware wallet's firmware must also be reproducable-build, for exactly the same reasons.
 
 
 ## 2. A hardware wallet generally does not increase security of funds
