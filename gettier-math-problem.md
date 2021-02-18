@@ -56,7 +56,7 @@ This may actually not always be true.
 
 ## 5. Gettier's example 1 and 2 in the true knowledge database
 
-Example 1:
+*Example 1*
 
 There exists a person who has a job and who has 10 coins:
 
@@ -66,7 +66,7 @@ Justified by the witness statement:
 
 justif₁ ⬄ has(Smith,job) ∧ has(Smith,ten_coins)
 
-Example 2:
+*Example 2:*
 
 claim₂ ⬄ has(Jones,Ford) ∨ isInLocation(Brown, Barcelona)
 
