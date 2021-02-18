@@ -212,7 +212,7 @@ justification   true        false
 
 ## 9. Alternative mathematical Gettier example
 
-Say that Smith has the following personally-held knowledge belief:
+Say that Smith subscribes to the following personally-held knowledge belief:
 
 ```
 0=1 ⇒ 2+5=7 
