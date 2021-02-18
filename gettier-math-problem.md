@@ -130,31 +130,37 @@ S = {
 ## 6. The JTB(Db,X) predicate
 
 
-Define the JTB(Db,X) predicate as following:
+Define the `JTB(Db,X)` predicate as following:
 
+```
 CLAIM=1
 JUSTIF=2
 
 JTB(Db,X) ⬄ ∃ knowledge ∈ Db ( knowledge[CLAIM]=X ∧ knowledge[JUSTIF] )
+```
 
-The belief X is true justified when: JTB(T,X) evaluated against the true knowledge tuples T.
-The belief X is possibly true but possible also misguided when:  JTB(S,X) evaluated against the personally-held beliefs S.
+The belief X is true justified when JTB(T,X) evaluated against the true knowledge tuples T.
+The belief X is possibly true but possible also misguided when  JTB(S,X) evaluated against the personally-held beliefs S.
 
 In the true knowledge database T, claim₁ and claim₂ are JTB beliefs:
 
+```
 JTB(T,claim₁)
 => true
 
 JTB(T,claim₂)
 => true
+```
 
 However in Smith's incorrect database S, claim₁ and claim₂ are believed to be true for the wrong reasons:
 
+```
 JTB(S,claim₁)
 => false
 
 JTB(S,claim₂)
 => false
+```
 
 This is because Smith's own justifications are wrong.
 
