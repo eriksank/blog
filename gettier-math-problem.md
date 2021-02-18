@@ -191,7 +191,7 @@ S: possibly misguided personally-held beliefs
 
 ```
 Normal case
-
+-----------
                 T           S
 
 belief          true        true
@@ -202,7 +202,7 @@ versus:
 
 ```
 Gettier case
-
+-----------
                 T           S
 
 belief          true        true
