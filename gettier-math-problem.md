@@ -40,19 +40,27 @@ knowledge = (claim, justification)
 
 Say that T is the set of objectively true knowledge beliefs.
 
+```
 T = { (claim₁, justif₁), (claim₂, justif₂), ..., (claimₙ, justifₙ) } 
+```
 
 as such that:
 
+```
 justifₖ ⇒ claimₖ
+```
 
 Say that S is the set of JTB beliefs held by Smith:
 
+```
 S = { (claim₁, justif₁), (claim₂, justif₂), ..., (claimₘ, justifₘ) } 
+```
 
 Smith believes that:
 
+```
 justifₖ ⇒ claimₖ
+```
 
 This may actually not always be true.
 
