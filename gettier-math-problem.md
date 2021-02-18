@@ -17,9 +17,8 @@ In that case, this belief satisfies the [definition of knowledge](https://en.wik
 
 The JTB account holds that knowledge is equivalent to justified true belief.
 
-https://en.wikipedia.org/wiki/Gettier_problem
 
-Gettier attempts to illustrate by means of two counterexamples that there are cases where individuals can have a justified, true belief regarding a claim but still fail to know it because the reasons for the belief, while justified, turn out to be false. Thus, Gettier claims to have shown that the JTB account is inadequate; that it does not account for all of the necessary and sufficient conditions for knowledge. 
+[Gettier attempts](https://en.wikipedia.org/wiki/Gettier_problem) to illustrate by means of two counterexamples that there are cases where individuals can have a justified, true belief regarding a claim but still fail to know it because the reasons for the belief, while justified, turn out to be false. Thus, Gettier claims to have shown that the JTB account is inadequate; that it does not account for all of the necessary and sufficient conditions for knowledge. 
 
 ## 3. Gettier examples
 
