@@ -37,6 +37,12 @@ Say that knowledge is a two-tuple that consists of a claim and a justification:
 ```
 knowledge = (claim, justification)
 ```
+In the true-belief knowledge database, the following is always true:
+
+```
+claim ⇒ justification
+```
+In a personally-held belief knowledge database, this may or may not be true. The person just believes that it is true.
 
 Say that T is the set of objectively true knowledge beliefs.
 
@@ -56,13 +62,13 @@ Say that S is the set of JTB beliefs held by Smith:
 S = { (claim₁, justif₁), (claim₂, justif₂), ..., (claimₘ, justifₘ) } 
 ```
 
-Smith believes that:
+Then, Smith believes that:
 
 ```
 justifₖ ⇒ claimₖ
 ```
 
-This may actually not always be true.
+This may actually not always be true. Smith may be misguided.
 
 ## 5. Gettier's example 1 and 2 in the true knowledge database
 
@@ -139,8 +145,9 @@ JUSTIF=2
 JTB(Db,X) ⬄ ∃ knowledge ∈ Db ( knowledge[CLAIM]=X ∧ knowledge[JUSTIF] )
 ```
 
-The belief X is true justified when JTB(T,X) evaluated against the true knowledge tuples T.
-The belief X is possibly true but possible also misguided when  JTB(S,X) evaluated against the personally-held beliefs S.
+The belief X is true justified when `JTB(T,X)` evaluated against the true knowledge tuples T.
+
+The belief X is possibly true but possible also misguided when `JTB(S,X)` evaluated against the personally-held beliefs S.
 
 In the true knowledge database T, claim₁ and claim₂ are JTB beliefs:
 
@@ -171,12 +178,12 @@ When there is a discrepancy between the true knowledge base T and the personally
 ∃ claimₓ ( JTB(T,claim) ∧ ⌐ JTB(S,claim) )
 ```
 
-Then claimₓ is a Gettier case.
+Then there exists at least one claimₓ that is justifiably true but not for the personally-held reasons. This is a Gettier case.
 
 Smith's personally-held knowledge database contains true claims with false justifications for which there exist true justifications.
 
 
-## 8. The table of Gettier confusions
+## 8. Tabular representation of the Gettier problem
 
 T: truly justified beliefs
 
