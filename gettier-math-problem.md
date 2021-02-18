@@ -178,7 +178,7 @@ When there is a discrepancy between the true knowledge base T and the personally
 ∃ claimₓ ( JTB(T,claim) ∧ ⌐ JTB(S,claim) )
 ```
 
-Then there exists at least one claimₓ that is justifiably true but not for the personally-held reasons. This is a Gettier case.
+Then there exists at least one `claimₓ` that is justifiably true but not for the personally-held reasons. This is a Gettier case.
 
 Smith's personally-held knowledge database contains true claims with false justifications for which there exist true justifications.
 
