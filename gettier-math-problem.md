@@ -159,7 +159,7 @@ JTB(T,claim₂)
 => true
 ```
 
-However in Smith's incorrect database S, claim₁ and claim₂ are believed to be true for the wrong reasons:
+However in Smith's incorrect database S, claim₁ and claim₂ are believed to be true but for the wrong reasons:
 
 ```
 JTB(S,claim₁)
