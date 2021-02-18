@@ -34,7 +34,9 @@ Smith, it is claimed by the hidden interlocutor, has a justified belief that "Jo
 
 Say that knowledge is a two-tuple that consists of a claim and a justification:
 
+```
 knowledge = (claim, justification)
+```
 
 Say that T is the set of objectively true knowledge beliefs.
 
