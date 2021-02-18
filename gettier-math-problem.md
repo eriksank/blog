@@ -222,3 +222,16 @@ This is a Gettier problem.
 
 Even though it is justifiably true that `2+5=7`, it is true for other reasons than because `0=1`.
 
+## 10. Conclusion
+
+In the personal belief of knowledge:
+
+```
+(claim, justification) = (Q, P)
+```
+The person truly believes that:
+```
+P => Q
+```
+However, even though `Q` is true for other reasons, his justification `P` is false.
+
