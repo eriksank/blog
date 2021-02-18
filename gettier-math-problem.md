@@ -207,7 +207,9 @@ justification   true        false
 
 Say that Smith has the following personally-held knowledge belief:
 
+```
 0=1 ⇒ 2+5=7 
+```
 
 This is a Gettier problem.
 
