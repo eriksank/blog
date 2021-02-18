@@ -179,18 +179,21 @@ Smith's personally-held knowledge database contains true claims with false justi
 ## 8. The table of Gettier confusions
 
 T: truly justified beliefs
+
 S: possibly misguided personally-held beliefs
 
-
-normal case
+```
+Normal case
 
                 T           S
 
 belief          true        true
 
 justification   true        true
+```
+versus:
 
-
+```
 Gettier case
 
                 T           S
@@ -198,7 +201,7 @@ Gettier case
 belief          true        true
 
 justification   true        false
-
+```
 
 ## 9. Alternative mathematical Gettier example
 
