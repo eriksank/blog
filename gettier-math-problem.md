@@ -91,8 +91,10 @@ T = {
 Smith's set of JTB beliefs:
 
 S= {
-        ( ∃ p ∈ Persons ( has(p,job) ∧ has(p,ten_coins) ),       has(Jones,job) ∧ has(Jones,10_coins)   ), // incorrect witness
-        ( has(Jones,Ford) ∨ isInLocation(Brown, Barcelona),      has(Jones,Ford)                        )  // incorrect option selected in justification
+        // incorrect witness
+        ( ∃ p ∈ Persons ( has(p,job) ∧ has(p,ten_coins) ),       has(Jones,job) ∧ has(Jones,10_coins)   ), 
+        // incorrect option selected in justification
+        ( has(Jones,Ford) ∨ isInLocation(Brown, Barcelona),      has(Jones,Ford)                        )  
 
     }
 
