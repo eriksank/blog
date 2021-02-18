@@ -162,17 +162,18 @@ JTB(S,claim₂)
 => false
 ```
 
-This is because Smith's own justifications are wrong.
 
-## 7. What is the source of the Gettier confusion?
+## 7. The source of the Gettier confusion
 
 When there is a discrepancy between the true knowledge base T and the personally-held knowledge beliefs S:
 
+```
 ∃ claimₓ ( JTB(T,claim) ∧ ⌐ JTB(S,claim) )
+```
 
 Then claimₓ is a Gettier case.
 
-Smith's knowledge database contains true claims with false justifications for which there exist true justifications.
+Smith's personally-held knowledge database contains true claims with false justifications for which there exist true justifications.
 
 
 ## 8. The table of Gettier confusions
