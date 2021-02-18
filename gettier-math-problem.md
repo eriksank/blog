@@ -145,9 +145,9 @@ JUSTIF=2
 JTB(Db,X) ⬄ ∃ knowledge ∈ Db ( knowledge[CLAIM]=X ∧ knowledge[JUSTIF] )
 ```
 
-The belief X is true justified when `JTB(T,X)` evaluated against the true knowledge tuples T.
+The belief X is true justified when `JTB(T,X)` evaluates to true against the true knowledge tuples T.
 
-The belief X is possibly true but possible also misguided when `JTB(S,X)` evaluated against the personally-held beliefs S.
+The belief X is possibly true but possible also misguided when `JTB(S,X)` is evaluated against the personally-held beliefs S.
 
 In the true knowledge database T, claim₁ and claim₂ are JTB beliefs:
 
