@@ -4,7 +4,7 @@ The Gettier conundrum is about an ambiguity in the general definition of knowled
 
 ## 1. The idea of knowledge as a Justified True Belief (JTB)
 
-**Knowledge** is defined as a justified true belief (JTB):
+Knowledge is defined as a justified true belief (JTB):
 
 * A particular belief happens to be true
 * You believe that it is true
