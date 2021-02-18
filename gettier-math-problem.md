@@ -40,6 +40,8 @@ Say that T is the set of objectively true knowledge beliefs.
 
 T = { (claim₁, justif₁), (claim₂, justif₂), ..., (claimₙ, justifₙ) } 
 
+as such that:
+
 justifₖ ⇒ claimₖ
 
 Say that S is the set of JTB beliefs held by Smith:
@@ -52,7 +54,7 @@ justifₖ ⇒ claimₖ
 
 This may actually not always be true.
 
-## 5. What does the objective set of true knowledge look like?
+## 5. Gettier's example 1 and 2 in the true knowledge database
 
 Example 1:
 
