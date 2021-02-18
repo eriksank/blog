@@ -70,36 +70,48 @@ This may actually not always be true.
 
 There exists a person who has a job and who has 10 coins:
 
+```
 claim₁ ⬄ ∃ p ∈ Persons ( has(p,job) ∧ has(p,ten_coins) )
+```
 
 Justified by the witness statement:
 
+```
 justif₁ ⬄ has(Smith,job) ∧ has(Smith,ten_coins)
+```
 
 *Example 2:*
 
+```
 claim₂ ⬄ has(Jones,Ford) ∨ isInLocation(Brown, Barcelona)
+```
 
 Justified by:
 
+```
 justif₂ ⬄ isInLocation(Brown, Barcelona)
-
+```
 
 Hence, T looks like this:
 
+```
 T = { 
         ( ∃ p ∈ Persons ( has(p,job) ∧ has(p,ten_coins) ),        has(Smith,job) ∧ has(Smith,ten_coins) ), 
         ( has(Jones,Ford) ∨ isInLocation(Brown,Barcelona),       isInLocation(Brown, Barcelona)         )
     }
 
+```
+or:
+```
 T = { 
         ( claim₁, justif₁), 
         ( claim₂, justif₂)
     }
 
+```
 
 Smith's set of JTB beliefs:
-
+```
 S= {
         // incorrect witness
         ( ∃ p ∈ Persons ( has(p,job) ∧ has(p,ten_coins) ),       has(Jones,job) ∧ has(Jones,10_coins)   ), 
@@ -107,12 +119,14 @@ S= {
         ( has(Jones,Ford) ∨ isInLocation(Brown, Barcelona),      has(Jones,Ford)                        )  
 
     }
-
+```
+or:
+```
 S = { 
         ( claim₁, wrong_justif₁), 
         ( claim₂, wrong_justif₂)
     }
-
+```
 ## 6. The JTB(Db,X) predicate
 
 
