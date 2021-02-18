@@ -213,5 +213,5 @@ Say that Smith has the following personally-held knowledge belief:
 
 This is a Gettier problem.
 
-Even though it is justifiably true that 2+5=7, it is true for other reasons than because 0=1.
+Even though it is justifiably true that `2+5=7`, it is true for other reasons than because `0=1`.
 
