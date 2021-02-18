@@ -10,9 +10,7 @@ Knowledge is defined as a justified true belief (JTB):
 * You believe that it is true
 * You can justify that it is true
 
-In that case, this belief satisfies the definition of knowledge.
-
-https://en.wikipedia.org/wiki/Belief#Justified_true_belief
+In that case, this belief satisfies the [definition of knowledge](https://en.wikipedia.org/wiki/Belief#Justified_true_belief).
 
 
 ## 2. What is the Gettier problem?
