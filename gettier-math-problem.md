@@ -70,6 +70,8 @@ justifₖ ⊢ claimₖ
 
 This may actually not always be true. Smith may be misguided.
 
+Note: There is a difference between ⊢ (synctatic entailment) and ⇒ (implication). The implication allows for [vacuous truths](https://en.wikipedia.org/wiki/Vacuous_truth) while the entailment does not.
+
 ## 5. Gettier's example 1 and 2 in the true knowledge database
 
 *Example 1*
