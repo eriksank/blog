@@ -40,7 +40,7 @@ knowledge = (claim, justification)
 In the true-belief knowledge database, the following is always true:
 
 ```
-claim ⇒ justification
+claim ⊢ justification
 ```
 In a personally-held belief knowledge database, this may or may not be true. The person just believes that it is true.
 
@@ -53,7 +53,7 @@ T = { (claim₁, justif₁), (claim₂, justif₂), ..., (claimₙ, justifₙ) }
 as such that:
 
 ```
-justifₖ ⇒ claimₖ
+justifₖ ⊢ claimₖ
 ```
 
 Say that S is the set of JTB beliefs held by Smith:
@@ -65,7 +65,7 @@ S = { (claim₁, justif₁), (claim₂, justif₂), ..., (claimₘ, justifₘ) }
 Then, Smith believes that:
 
 ```
-justifₖ ⇒ claimₖ
+justifₖ ⊢ claimₖ
 ```
 
 This may actually not always be true. Smith may be misguided.
@@ -215,7 +215,7 @@ justification   true        false
 Say that Smith subscribes to the following personally-held knowledge belief:
 
 ```
-0=1 ⇒ 2+5=7 
+0=1 ⊢ 2+5=7 
 ```
 
 This is a Gettier problem.
@@ -231,7 +231,7 @@ In the personal belief of knowledge:
 ```
 The person truly believes that:
 ```
-P => Q
+P ⊢ Q
 ```
 However, even though `Q` is true for other reasons, his justification `P` is false.
 
