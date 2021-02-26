@@ -4,7 +4,7 @@
 
 With a good team, it does not matter what you build first: a mobile app or a website.
 
-With an average team, however, it makes a serious amount of difference. With an average, you must go mobile first.
+With an average team, however, it makes a serious amount of difference. With an average team, you must go mobile first.
 
 Why?
 
