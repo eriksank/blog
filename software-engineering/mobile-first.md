@@ -22,7 +22,9 @@ A good team knows about this and will ignore the misleading web framework tutori
 
 An average team, however, will mess up big time.
 
-It is actually a good way to assess the level of your team. Do they experience big trouble when trying to add a mobile app to an existing website? If yes, then you know that they are mediocre.
+It is actually a good way to assess the level of your team.
+
+Do they experience big trouble when trying to add a mobile app to an existing website? If yes, then you know that they are mediocre.
 
 ## The term "MVC" means something else
 
@@ -40,11 +42,12 @@ None of the Web framework publishers, such as Laravel or Django, has ever read t
 
 An example of an MVC situation in a website:
 
+
 - **Controller:** the Windows start button
 - **View:** the Firefox web browser
 - **Model:** a bunch of python scripts invoked by an apache web server
 
-Therefore, the term "View-Model" is simply a synonym for the term "Client-Server".
+Therefore, the term "View-Model" is a synonym for the term "Client-Server".
 
-By the way, the brower's address bar is also a "Controller", because it also helps the user to select which application to run.
+By the way, the browser's address bar is also a "Controller", because it also helps the user to select which application to run.
 
