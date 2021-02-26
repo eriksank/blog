@@ -45,7 +45,7 @@ An example of an MVC situation in a website:
 
 - **Controller:** the Windows start button
 - **View:** the Firefox web browser
-- **Model:** a bunch of python scripts invoked by an apache web server
+- **Model:** a bunch of python scripts invoked by an Apache web server
 
 Therefore, the term "View-Model" is a synonym for the term "Client-Server".
 
