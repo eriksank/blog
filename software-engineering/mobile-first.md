@@ -33,16 +33,16 @@ https://zenodo.org/record/3676092
 None of the Web framework publishers, such as Laravel or Django, has ever read the original 1979 publication. 
 
 
-- **Controller:** is a widget like the Windows start button with its popup menu. The user uses it to select which program you want to interact with.
-- **View:** is your client app. It is the app that the user selected by using the controller.
-- **Model:** is your server-side application that responds to requests by the view, i.e. the client app.
+- **Controller:** a widget like the Windows start button with its popup menu. The user uses it to select which program you want to interact with.
+- **View:** your client app. It is the app that the user selected by using the controller.
+- **Model:** your server-side application that responds to requests by the view.
 
 
 An example of an MVC situation in a website:
 
-- **Controller:** Windows start button
-- **View:** firefox
-- **Model:** a bunch of scripts python scripts invoked by an apache web server.
+- **Controller:** the Windows start button
+- **View:** the Firefox web browser
+- **Model:** a bunch of python scripts invoked by an apache web server
 
 Therefore, the term "View-Model" is simply a synonym for the term "Client-Server".
 
