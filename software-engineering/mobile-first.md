@@ -22,9 +22,17 @@ A good team knows about this and will ignore the misleading web framework tutori
 
 An average team, however, will mess up big time.
 
+## Does a web framework help to build better apps?
+
+No, because none of these web frameworks allow for building mobile or desktop apps later on. The entire architecture of a web framework is faulty. The following is simply wrong:
+
+http request --> application --> html
+
+This strategy will ultimately force you to build the application again for each client interface needed. Furthermore, you will need to keep these different code bases in sync. It is costly, error-prone, and generally inconsistent.
+
 It is actually a good way to assess the level of your team.
 
-Do they experience big trouble when trying to add a mobile app to an existing website? If yes, then you know that they are mediocre.
+Do they experience big trouble when trying to add a mobile app to an existing website? If yes, then you know that the team is mediocre.
 
 ## The term "MVC" means something else
 
