@@ -14,9 +14,9 @@ The other way around is not true.
 
 Average developers generally do not build an API that will service the needs of the web application. Instead, they will typically do what their web framework tutorial has taught them. Typical frameworks such as Laravel and Django encourage the developer to code his application logic straight into the http request responders, amidst a cargo-cult smokescreen of totally misunderstood MVC (Model-View-Controller).
 
-Hence, the logic expect a web page request as input and sends out HTML as output.
+Hence, the average team will build logic that expect a http request as input and sends out HTML as output.
 
-This is not suitable for a mobile app, which generally sends a request typically in JSON format and expects data back, also in JSON format.
+This is not suitable for a mobile app, which generally sends out a request typically in JSON format and expects data back, also in JSON format.
 
 A good team knows about this and will ignore the misleading web framework tutorials. They will make sure to focus on building JSON APIs, regardless of whether they are doing mobile first or web first.
 
