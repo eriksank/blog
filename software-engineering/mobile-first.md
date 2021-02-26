@@ -22,6 +22,8 @@ A good team knows about this and will ignore the misleading web framework tutori
 
 An average team, however, will mess up big time.
 
+It is actually a good way to assess the level of your team. Do they experience big trouble when trying to add a mobile app to an existing website? If yes, then you know that they are mediocre.
+
 ## The term "MVC" means something else
 
 By the way, what exactly did Trygve Reenskaug mean by "Models-Views-Controllers" in his 1978 publication by the same name?
