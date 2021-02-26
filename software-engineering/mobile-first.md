@@ -43,6 +43,7 @@ MVC applied to a web situation:
 - **View:** the Firefox web browser
 - **Model:** a bunch of python scripts invoked by an Apache web server
 
+More generally:
 
 - **Controller:** a widget like the Windows start button with its popup menu. The user uses it to select which program you want to interact with.
 - **View:** your client app. It is the app that the user selected by using the controller.
