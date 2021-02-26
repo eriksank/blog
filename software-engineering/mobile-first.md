@@ -50,7 +50,7 @@ More generally:
 - **Model:** your server-side application that responds to requests by the view.
 
 
-Therefore, the term "View-Model" is a synonym for the term "Client-Server".
+Therefore, the term **View-Model** is a synonym for the term **Client-Server**.
 
 By the way, the browser's address bar is also a "Controller", because it also helps the user to select which application to run.
 
