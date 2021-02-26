@@ -18,7 +18,7 @@ Hence, the average team will build logic that expect a http request as input and
 
 This is not suitable for a mobile app, which generally sends out a request typically in JSON format and expects data back, also in JSON format.
 
-A good team knows about this and will ignore the misleading web framework tutorials. They will make sure to focus on building JSON APIs, regardless of whether they are doing mobile first or web first.
+A good team knows about this and will ignore the misleading web framework tutorials. They will make sure to focus on building JSON APIs first, regardless of whether they are doing mobile first or web first.
 
 An average team, however, will mess up big time.
 
