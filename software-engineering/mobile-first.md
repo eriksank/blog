@@ -24,15 +24,9 @@ An average team, however, will mess up big time.
 
 ## Does a web framework help to build better apps?
 
-No, because none of these web frameworks allow for building mobile or desktop apps later on. The entire architecture of a web framework is faulty. The following is simply wrong:
+No, because none of these web frameworks allows for sharing the existing code with mobile or desktop apps later on. Therefore, the entire architecture of a web framework is faulty.
 
-http request --> application --> html
-
-This strategy will ultimately force you to build the application again for each client interface needed. Furthermore, you will need to keep these different code bases in sync. It is costly, error-prone, and generally inconsistent.
-
-It is actually a good way to assess the level of your team.
-
-Do they experience big trouble when trying to add a mobile app to an existing website? If yes, then you know that the team is mediocre.
+This strategy will ultimately force you to build the application again for each client interface needed: web, mobile, desktop, webservice, ... Furthermore, you will need to keep these different code bases in sync. It is costly, error-prone, and generally inconsistent.
 
 ## The term "MVC" means something else
 
@@ -40,7 +34,7 @@ By the way, what exactly did Trygve Reenskaug mean by "Models-Views-Controllers"
 
 https://zenodo.org/record/3676092
 
-None of the Web framework publishers, such as Laravel or Django, has ever read the original 1979 publication. 
+None of the Web framework publishers, such as Laravel or Django, seems to have ever read the original 1979 publication. 
 
 
 - **Controller:** a widget like the Windows start button with its popup menu. The user uses it to select which program you want to interact with.
@@ -48,7 +42,7 @@ None of the Web framework publishers, such as Laravel or Django, has ever read t
 - **Model:** your server-side application that responds to requests by the view.
 
 
-An example of an MVC situation in a website:
+An example of an MVC situation in a web situation:
 
 
 - **Controller:** the Windows start button
